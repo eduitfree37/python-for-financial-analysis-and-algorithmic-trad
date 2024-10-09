@@ -1,0 +1,5 @@
+# Python for Financial Analysis and Algorithmic Trading
+
+Explore the world of Python for Financial Analysis and Algorithmic Trading with our comprehensive course! Discover the powerful ways in which Python is utilized for conducting rigorous financial analysis and engaging in algorithmic trading. This course equips you with the essential knowledge and skills to effectively leverage Python in the field of finance. From mastering the fundamentals of Python to delving into vital libraries such as jupyter, numpy, pandas, matplotlib, statsmodels, zipline, Quantopian, and more, this course ensures a thorough understanding of the Py-Finance Ecosystem. Join us and unleash the potential of Python for Finance and Algorithmic Trading! 
+
+[Detail](https://eduitfree.com/courses/python-for-financial-analysis-and-algorithmic-trading)
